@@ -1,4 +1,4 @@
-# <p align="center"> 👁️ VISION - Emotion and Dog Breed Recognition.
+# <p align="center"> 👁️ VISION - Emotion and Dog Breed Recognition
 
 
 
